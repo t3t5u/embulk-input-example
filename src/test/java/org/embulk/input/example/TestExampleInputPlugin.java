@@ -1,5 +1,3 @@
 package org.embulk.input.example;
 
-public class TestExampleInputPlugin
-{
-}
+public class TestExampleInputPlugin {}
